@@ -24,7 +24,7 @@ body {
     text-align: center;
     padding: 10px;
     background-color: rgba(0, 0, 0, .2);
-    transition: all 0.2s ease;
+    transition: all 0.07s ease;
 }
 
 kbd {
